@@ -18,5 +18,21 @@
                 "SQLite"
             ]
         }
+    ],
+    "languages": [
+        {
+            "name": "Angular",
+            "desc": "angular desc",
+            "icon": "",
+            "stick": "",
+            "link": "https://google.com"
+        },
+        {
+            "name": "Angular",
+            "desc": "angular desc",
+            "icon": "",
+            "stick": "",
+            "link": "https://google.com"
+        }
     ]
 }
