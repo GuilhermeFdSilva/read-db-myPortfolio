@@ -24,7 +24,7 @@
             "name": "Java",
             "desc": "",
             "type": "PL",
-            "icon": "",
+            "icon": "https://guilhermefdsilva.github.io/read-db-myPortfolio/logos/java.svg",
             "stick": "https://guilhermefdsilva.github.io/read-db-myPortfolio/sticks/stick-java.svg",
             "link": "https://docs.oracle.com/en/java/"
         },
@@ -64,7 +64,7 @@
             "name": "Angular",
             "desc": "",
             "type": "FE",
-            "icon": "",
+            "icon": "https://guilhermefdsilva.github.io/read-db-myPortfolio/logos/angular.svg",
             "stick": "https://guilhermefdsilva.github.io/read-db-myPortfolio/sticks/stick-angular.svg",
             "link": "https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/Angular_getting_started"
         },
