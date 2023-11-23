@@ -25,7 +25,7 @@
             "desc": "",
             "type": "PL",
             "icon": "",
-            "stick": "https://guilhermefdsilva.github.io/icons-myPortfolio/sticks/stick-java.svg",
+            "stick": "https://guilhermefdsilva.github.io/read-db-myPortfolio/sticks/stick-java.svg",
             "link": "https://docs.oracle.com/en/java/"
         },
         {
@@ -33,7 +33,7 @@
             "desc": "",
             "type": "PL",
             "icon": "",
-            "stick": "https://guilhermefdsilva.github.io/icons-myPortfolio/sticks/stick-typescript.svg",
+            "stick": "https://guilhermefdsilva.github.io/read-db-myPortfolio/sticks/stick-typescript.svg",
             "link": "https://www.typescriptlang.org/docs/"
         },
         {
@@ -41,7 +41,7 @@
             "desc": "",
             "type": "PL",
             "icon": "",
-            "stick": "https://guilhermefdsilva.github.io/icons-myPortfolio/sticks/stick-javascript.svg",
+            "stick": "https://guilhermefdsilva.github.io/read-db-myPortfolio/sticks/stick-javascript.svg",
             "link": "https://developer.mozilla.org/en-US/docs/Web/JavaScript"
         },
         {
@@ -49,7 +49,7 @@
             "desc": "",
             "type": "PL",
             "icon": "",
-            "stick": "https://guilhermefdsilva.github.io/icons-myPortfolio/sticks/stick-c.svg",
+            "stick": "https://guilhermefdsilva.github.io/read-db-myPortfolio/sticks/stick-c.svg",
             "link": "https://www.ibm.com/docs/pt/i/7.2?topic=languages-c-c"
         },
         {
@@ -57,7 +57,7 @@
             "desc": "",
             "type": "PL",
             "icon": "",
-            "stick": "https://guilhermefdsilva.github.io/icons-myPortfolio/sticks/stick-python.svg",
+            "stick": "https://guilhermefdsilva.github.io/read-db-myPortfolio/sticks/stick-python.svg",
             "link": "https://wiki.python.org.br/PythonBrasil"
         },
         {
@@ -65,7 +65,7 @@
             "desc": "",
             "type": "FE",
             "icon": "",
-            "stick": "https://guilhermefdsilva.github.io/icons-myPortfolio/sticks/stick-angular.svg",
+            "stick": "https://guilhermefdsilva.github.io/read-db-myPortfolio/sticks/stick-angular.svg",
             "link": "https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/Angular_getting_started"
         },
         {
@@ -73,7 +73,7 @@
             "desc": "",
             "type": "FE",
             "icon": "",
-            "stick": "https://guilhermefdsilva.github.io/icons-myPortfolio/sticks/stick-html.svg",
+            "stick": "https://guilhermefdsilva.github.io/read-db-myPortfolio/sticks/stick-html.svg",
             "link": "https://developer.mozilla.org/pt-BR/docs/Web/HTML"
         },
         {
@@ -81,7 +81,7 @@
             "desc": "",
             "type": "FE",
             "icon": "",
-            "stick": "https://guilhermefdsilva.github.io/icons-myPortfolio/sticks/stick-css.svg",
+            "stick": "https://guilhermefdsilva.github.io/read-db-myPortfolio/sticks/stick-css.svg",
             "link": "https://developer.mozilla.org/pt-BR/docs/Web/CSS"
         },
         {
@@ -89,7 +89,7 @@
             "desc": "",
             "type": "FE",
             "icon": "",
-            "stick": "https://guilhermefdsilva.github.io/icons-myPortfolio/sticks/stick-sass.svg",
+            "stick": "https://guilhermefdsilva.github.io/read-db-myPortfolio/sticks/stick-sass.svg",
             "link": "https://sass-lang.com/documentation/"
         },
         {
@@ -97,7 +97,7 @@
             "desc": "",
             "type": "FE",
             "icon": "",
-            "stick": "https://guilhermefdsilva.github.io/icons-myPortfolio/sticks/stick-bootstrap.svg",
+            "stick": "https://guilhermefdsilva.github.io/read-db-myPortfolio/sticks/stick-bootstrap.svg",
             "link": "https://getbootstrap.com.br/docs/4.1/getting-started/introduction/"
         },
         {
@@ -105,7 +105,7 @@
             "desc": "",
             "type": "DB",
             "icon": "",
-            "stick": "https://guilhermefdsilva.github.io/icons-myPortfolio/sticks/stick-mysql.svg",
+            "stick": "https://guilhermefdsilva.github.io/read-db-myPortfolio/sticks/stick-mysql.svg",
             "link": "https://dev.mysql.com/doc/"
         },
         {
@@ -113,7 +113,7 @@
             "desc": "",
             "type": "DB",
             "icon": "",
-            "stick": "https://guilhermefdsilva.github.io/icons-myPortfolio/sticks/stick-mongodb.svg",
+            "stick": "https://guilhermefdsilva.github.io/read-db-myPortfolio/sticks/stick-mongodb.svg",
             "link": "https://www.mongodb.com/docs/"
         }
     ]
