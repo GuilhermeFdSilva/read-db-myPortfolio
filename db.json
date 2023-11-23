@@ -21,18 +21,100 @@
     ],
     "languages": [
         {
-            "name": "Angular",
-            "desc": "angular desc",
+            "name": "Java",
+            "desc": "",
+            "type": "PL",
             "icon": "",
-            "stick": "",
-            "link": "https://google.com"
+            "stick": "https://guilhermefdsilva.github.io/icons-myPortfolio/stick-java.svg",
+            "link": "https://docs.oracle.com/en/java/"
+        },
+        {
+            "name": "TypeScript",
+            "desc": "",
+            "type": "PL",
+            "icon": "",
+            "stick": "https://guilhermefdsilva.github.io/icons-myPortfolio/stick-typescript.svg",
+            "link": "https://www.typescriptlang.org/docs/"
+        },
+        {
+            "name": "JavaScript",
+            "desc": "",
+            "type": "PL",
+            "icon": "",
+            "stick": "https://guilhermefdsilva.github.io/icons-myPortfolio/stick-javascript.svg",
+            "link": "https://developer.mozilla.org/en-US/docs/Web/JavaScript"
+        },
+        {
+            "name": "C",
+            "desc": "",
+            "type": "PL",
+            "icon": "",
+            "stick": "https://guilhermefdsilva.github.io/icons-myPortfolio/stick-c.svg",
+            "link": "https://www.ibm.com/docs/pt/i/7.2?topic=languages-c-c"
+        },
+        {
+            "name": "Python",
+            "desc": "",
+            "type": "PL",
+            "icon": "",
+            "stick": "https://guilhermefdsilva.github.io/icons-myPortfolio/stick-python.svg",
+            "link": "https://wiki.python.org.br/PythonBrasil"
         },
         {
             "name": "Angular",
-            "desc": "angular desc",
+            "desc": "",
+            "type": "FE",
             "icon": "",
-            "stick": "",
-            "link": "https://google.com"
+            "stick": "https://guilhermefdsilva.github.io/icons-myPortfolio/stick-angular.svg",
+            "link": "https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/Angular_getting_started"
+        },
+        {
+            "name": "HTML",
+            "desc": "",
+            "type": "FE",
+            "icon": "",
+            "stick": "https://guilhermefdsilva.github.io/icons-myPortfolio/stick-html.svg",
+            "link": "https://developer.mozilla.org/pt-BR/docs/Web/HTML"
+        },
+        {
+            "name": "CSS",
+            "desc": "",
+            "type": "FE",
+            "icon": "",
+            "stick": "https://guilhermefdsilva.github.io/icons-myPortfolio/stick-css.svg",
+            "link": "https://developer.mozilla.org/pt-BR/docs/Web/CSS"
+        },
+        {
+            "name": "SASS",
+            "desc": "",
+            "type": "FE",
+            "icon": "",
+            "stick": "https://guilhermefdsilva.github.io/icons-myPortfolio/stick-sass.svg",
+            "link": "https://sass-lang.com/documentation/"
+        },
+        {
+            "name": "Bootstrap",
+            "desc": "",
+            "type": "FE",
+            "icon": "",
+            "stick": "https://guilhermefdsilva.github.io/icons-myPortfolio/stick-bootstrap.svg",
+            "link": "https://getbootstrap.com.br/docs/4.1/getting-started/introduction/"
+        },
+        {
+            "name": "SQL",
+            "desc": "",
+            "type": "DB",
+            "icon": "",
+            "stick": "https://guilhermefdsilva.github.io/icons-myPortfolio/stick-mysql.svg",
+            "link": "https://dev.mysql.com/doc/"
+        },
+        {
+            "name": "MongoDB",
+            "desc": "",
+            "type": "DB",
+            "icon": "",
+            "stick": "https://guilhermefdsilva.github.io/icons-myPortfolio/stick-mongodb.svg",
+            "link": "https://www.mongodb.com/docs/"
         }
     ]
 }
