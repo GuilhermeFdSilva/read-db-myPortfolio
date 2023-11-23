@@ -1,6 +1,5 @@
 {
-    "projects": [
-        {
+    "projects": [{
             "title": "Teste",
             "img": "",
             "desc": "teste obj 1",
@@ -19,10 +18,9 @@
             ]
         }
     ],
-    "languages": [
-        {
+    "languages": [{
             "name": "Java",
-            "desc": "",
+            "desc": "Java é uma linguagem de programação versátil e orientada a objetos, conhecida por sua portabilidade e robustez. Desenvolvida para ser independente de plataforma, ela é amplamente utilizada em desenvolvimento de software empresarial, aplicações móveis e em sistemas distribuídos.",
             "type": "PL",
             "icon": "https://guilhermefdsilva.github.io/read-db-myPortfolio/logos/java.svg",
             "stick": "https://guilhermefdsilva.github.io/read-db-myPortfolio/sticks/stick-java.svg",
@@ -62,7 +60,7 @@
         },
         {
             "name": "Angular",
-            "desc": "",
+            "desc": "Angular é um framework front-end desenvolvido pelo Google, amplamente utilizado para a construção de aplicativos web dinâmicos e escaláveis. Baseado em TypeScript, oferece uma arquitetura modular e recursos como two-way data binding, injeção de dependência e uma forte comunidade de desenvolvedores.",
             "type": "FE",
             "icon": "https://guilhermefdsilva.github.io/read-db-myPortfolio/logos/angular.svg",
             "stick": "https://guilhermefdsilva.github.io/read-db-myPortfolio/sticks/stick-angular.svg",
