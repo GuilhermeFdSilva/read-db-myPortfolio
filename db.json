@@ -3,6 +3,7 @@
             "title": "Teste",
             "img": "",
             "desc": "teste obj 1",
+            "mainLanguage": "Angular",
             "tools": [
                 "Angular",
                 "SASS"
@@ -12,6 +13,7 @@
             "title": "Teste 2",
             "img": "",
             "desc": "teste obj 2",
+            "mainLanguage": "Java",
             "tools": [
                 "Java",
                 "SQLite"
