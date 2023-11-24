@@ -24,7 +24,8 @@
             "type": "PL",
             "icon": "https://guilhermefdsilva.github.io/read-db-myPortfolio/logos/java.svg",
             "stick": "https://guilhermefdsilva.github.io/read-db-myPortfolio/sticks/stick-java.svg",
-            "link": "https://docs.oracle.com/en/java/"
+            "link": "https://docs.oracle.com/en/java/",
+            "main": true
         },
         {
             "name": "TypeScript",
@@ -32,7 +33,8 @@
             "type": "PL",
             "icon": "",
             "stick": "https://guilhermefdsilva.github.io/read-db-myPortfolio/sticks/stick-typescript.svg",
-            "link": "https://www.typescriptlang.org/docs/"
+            "link": "https://www.typescriptlang.org/docs/",
+            "main": false
         },
         {
             "name": "JavaScript",
@@ -40,7 +42,8 @@
             "type": "PL",
             "icon": "",
             "stick": "https://guilhermefdsilva.github.io/read-db-myPortfolio/sticks/stick-javascript.svg",
-            "link": "https://developer.mozilla.org/en-US/docs/Web/JavaScript"
+            "link": "https://developer.mozilla.org/en-US/docs/Web/JavaScript",
+            "main": false
         },
         {
             "name": "C",
@@ -48,7 +51,8 @@
             "type": "PL",
             "icon": "",
             "stick": "https://guilhermefdsilva.github.io/read-db-myPortfolio/sticks/stick-c.svg",
-            "link": "https://www.ibm.com/docs/pt/i/7.2?topic=languages-c-c"
+            "link": "https://www.ibm.com/docs/pt/i/7.2?topic=languages-c-c",
+            "main": false
         },
         {
             "name": "Python",
@@ -56,7 +60,8 @@
             "type": "PL",
             "icon": "",
             "stick": "https://guilhermefdsilva.github.io/read-db-myPortfolio/sticks/stick-python.svg",
-            "link": "https://wiki.python.org.br/PythonBrasil"
+            "link": "https://wiki.python.org.br/PythonBrasil",
+            "main": false
         },
         {
             "name": "Angular",
@@ -64,7 +69,8 @@
             "type": "FE",
             "icon": "https://guilhermefdsilva.github.io/read-db-myPortfolio/logos/angular.svg",
             "stick": "https://guilhermefdsilva.github.io/read-db-myPortfolio/sticks/stick-angular.svg",
-            "link": "https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/Angular_getting_started"
+            "link": "https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/Angular_getting_started",
+            "main": true
         },
         {
             "name": "HTML",
@@ -72,7 +78,8 @@
             "type": "FE",
             "icon": "",
             "stick": "https://guilhermefdsilva.github.io/read-db-myPortfolio/sticks/stick-html.svg",
-            "link": "https://developer.mozilla.org/pt-BR/docs/Web/HTML"
+            "link": "https://developer.mozilla.org/pt-BR/docs/Web/HTML",
+            "main": false
         },
         {
             "name": "CSS",
@@ -80,7 +87,8 @@
             "type": "FE",
             "icon": "",
             "stick": "https://guilhermefdsilva.github.io/read-db-myPortfolio/sticks/stick-css.svg",
-            "link": "https://developer.mozilla.org/pt-BR/docs/Web/CSS"
+            "link": "https://developer.mozilla.org/pt-BR/docs/Web/CSS",
+            "main": false
         },
         {
             "name": "SASS",
@@ -88,7 +96,8 @@
             "type": "FE",
             "icon": "",
             "stick": "https://guilhermefdsilva.github.io/read-db-myPortfolio/sticks/stick-sass.svg",
-            "link": "https://sass-lang.com/documentation/"
+            "link": "https://sass-lang.com/documentation/",
+            "main": false
         },
         {
             "name": "Bootstrap",
@@ -96,7 +105,8 @@
             "type": "FE",
             "icon": "",
             "stick": "https://guilhermefdsilva.github.io/read-db-myPortfolio/sticks/stick-bootstrap.svg",
-            "link": "https://getbootstrap.com.br/docs/4.1/getting-started/introduction/"
+            "link": "https://getbootstrap.com.br/docs/4.1/getting-started/introduction/",
+            "main": false
         },
         {
             "name": "SQL",
@@ -104,7 +114,8 @@
             "type": "DB",
             "icon": "",
             "stick": "https://guilhermefdsilva.github.io/read-db-myPortfolio/sticks/stick-mysql.svg",
-            "link": "https://dev.mysql.com/doc/"
+            "link": "https://dev.mysql.com/doc/",
+            "main": false
         },
         {
             "name": "MongoDB",
@@ -112,7 +123,8 @@
             "type": "DB",
             "icon": "",
             "stick": "https://guilhermefdsilva.github.io/read-db-myPortfolio/sticks/stick-mongodb.svg",
-            "link": "https://www.mongodb.com/docs/"
+            "link": "https://www.mongodb.com/docs/",
+            "main": false
         }
     ]
 }
