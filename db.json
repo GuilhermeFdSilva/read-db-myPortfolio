@@ -290,7 +290,7 @@
             "icon": "",
             "stick": "https://guilhermefdsilva.github.io/read-db-myPortfolio/sticks/stick-html.svg",
             "link": "https://developer.mozilla.org/pt-BR/docs/Web/HTML",
-            "main": false
+            "main": true
         },
         {
             "name": "CSS",
@@ -326,7 +326,7 @@
             "icon": "",
             "stick": "https://guilhermefdsilva.github.io/read-db-myPortfolio/sticks/stick-mysql.svg",
             "link": "https://dev.mysql.com/doc/",
-            "main": false
+            "main": true
         },
         {
             "name": "MongoDB",
