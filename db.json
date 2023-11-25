@@ -193,10 +193,10 @@
             "title": "CS50",
             "img": "",
             "desc": "Conjunto de projetos em diversas linguagens de programação. Todo o conteúdo deste repositório foi produzido durante as aulas do curso CS50 de Harvard, disponibilizado pela Fundação Estudar para o Brasil.",
-            "mainLanguage": "C",
+            "mainLanguage": "HTML",
             "tools": [
-                "C",
                 "HTML",
+                "C",
                 "Python",
                 "CSS"
             ],
