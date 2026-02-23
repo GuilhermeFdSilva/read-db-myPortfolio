@@ -1,31 +1,11 @@
 # read-db-myPortfolio 🤔
 
+This repository is intended to store the images used in my portfolio, which you can access here → [My Portfolio](https://francaguilherme.com.br).
 
-Esse repositório tem como propósito armazenar imagens que são utilizadas no meu portfólio que você pode acessar aqui -> [Meu portfolio](https://francaguilherme.com.br).
+## How to Access the Images
 
+**Icon:**
 
-### Para acessar as imagens
-
-
-**Ícone**:
 ```
-https://guilhermefdsilva.github.io/read-db-myPortfolio/favicon/favicon.ico
-```
-
-
-**Logos das linguagens de programação**:
-```
-https://guilhermefdsilva.github.io/read-db-myPortfolio/logos/{{ linguagem }}
-```
-
-
-**Sticks das linguagens de programação**:
-```
-https://guilhermefdsilva.github.io/read-db-myPortfolio/sticks/{{ linguagem }}
-```
-
-
-**Imagens dos meus projetos** 😳:
-```
-https://guilhermefdsilva.github.io/read-db-myPortfolio/projects/{{ nome do projeto }}
+https://guilhermefdsilva.github.io/read-db-myPortfolio/favicon/{{ language }}
 ```
